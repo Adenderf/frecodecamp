@@ -1,0 +1,19 @@
+{
+  "name": "backendtutorial",
+  "version": "1.0.0",
+  "description": "100daysofcoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adenderf/frecodecamp.git"
+  },
+  "author": "'alden derf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adenderf/frecodecamp/issues"
+  },
+  "homepage": "https://github.com/Adenderf/frecodecamp#readme"
+}
